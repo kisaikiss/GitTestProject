@@ -3,9 +3,9 @@
 
 #include <iostream>
 
-int main()
-{
+int main() {
     std::cout << "Hello VsCode Git!!\n";
+    std::cout << "Hello New Branch!!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
